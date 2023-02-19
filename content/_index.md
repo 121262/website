@@ -16,7 +16,7 @@ teaser_image: "images/map-zambia-logo.png" # https://www.pexels.com/search/produ
 - Geographical Information System
 - Enviromental Assessments
 - Social-Economic Assessments
-
+- Provides Open Mapping to local and international organisations
 ---
 
 # Get in touch!
