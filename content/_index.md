@@ -24,6 +24,11 @@ teaser_image: "images/map-zambia-logo.png" # https://www.pexels.com/search/produ
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
 ---
+**Our Partners**
+
+We partner with the government and NGO that promotes open mapping and geospatial Data.
+we work with *YouthMappers* from Universities and community.
+We collaborate with local mappers, ministeries and any other organisations. 
 
 # Imprint & Privacy Policy
 
