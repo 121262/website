@@ -36,7 +36,7 @@ Rhodes Park
 Lusaka
 Zambia
 
-E-mail: team@opendatalabzambia.org
+E-mail: [team@opendatalabzambia.org](mailto:team@opendatalabzambia.org)
 International calls: +31623023832
 Phone: +260979011064 +260976551599
 
